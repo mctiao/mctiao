@@ -3,8 +3,7 @@
 
 ##一下是我的社交地址
 - 哔哩哔哩<a href="https://space.bilibili.com/471427518/">点击跳转</a>
-- 博客<a href="https://blog.mctiao.top/">点击跳转</a>
-- 来我家玩<a href="https://chat.mctiao.top/">点击跳转</a>
+
 
 <a href="https://github.com/mctiao" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@mctiao-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 
